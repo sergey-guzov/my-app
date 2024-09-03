@@ -1,6 +1,6 @@
-Реализованы следующие программы:
-1. Приветствовать любого пользователя при вводе его имени через командную строку.
-2. Отобразить в окне консоли аргументы командной строки в обратном порядке.
-3. Вывести заданное количество случайных чисел с переходом и без перехода на новую строку
-4. Ввести целые числа как аргументы командной строки, подсчитать их сумму (произведение) и вывести результат на консоль.
-5. Ввести число от 1 до 12. Вывести на консоль название месяца, соответствующего данному числу. Осуществить проверку корректности ввода чисел.
+The following programs have been implemented:
+1. Greet any user when entering their name via the command line.
+2. Display the command line arguments in the console window in reverse order.
+3. Output a specified number of random digits with and without a new line
+4. Enter integers as command line arguments, calculate their sum (multiplication), and output the result to the console.
+5. Enter a number from 1 to 12. Output the name of the month corresponding to this number to the console. Check the correctness of the number input.
